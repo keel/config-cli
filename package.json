@@ -1,0 +1,22 @@
+{
+  "name": "config-cli",
+  "version": "1.0.0",
+  "description": "the client for config-server",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/keel/config-cli.git"
+  },
+  "keywords": [
+    "config"
+  ],
+  "author": "keel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keel/config-cli/issues"
+  },
+  "homepage": "https://github.com/keel/config-cli#readme"
+}
